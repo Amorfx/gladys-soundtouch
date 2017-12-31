@@ -1,0 +1,25 @@
+{
+  "name": "gladys-soundtouch",
+  "version": "1.0.0",
+  "description": "Gladys module for soundtouch bose devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amorfx/gladys-soundtouch.git"
+  },
+  "keywords": [
+    "gladys"
+  ],
+  "author": "Clément Décou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amorfx/gladys-soundtouch/issues"
+  },
+  "homepage": "https://github.com/Amorfx/gladys-soundtouch#readme",
+  "dependencies": {
+    "node-soundtouch": "^0.1.1"
+  }
+}
