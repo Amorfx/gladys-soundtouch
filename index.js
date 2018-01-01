@@ -10,7 +10,7 @@ module.exports = function (sails) {
       
     return {
         setup, 
-        init
+        init,
         music
     };
 };
